@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">testBottomNavigation</string>
+    <string name="app_name">TestBottomNavigation</string>
 
     <string name="first">FIRST</string>
     <string name="second">SECOND</string>
